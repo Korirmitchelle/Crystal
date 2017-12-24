@@ -77,7 +77,7 @@
   pointer: cursor;
 }
 .message:hover {
-  opacity: 0;
+  opacity: 1;
   -webkit-transition-delay: 2s;
   transition-delay: 2s;
   pointer: cursor;
